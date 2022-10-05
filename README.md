@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adwait-Naravane
-- 👀 I’m interested in Physics and am a weeb.
+- 👀 I’m interested in Physics and Basketball.
 - 🌱 I’m currently learning computational physics and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
